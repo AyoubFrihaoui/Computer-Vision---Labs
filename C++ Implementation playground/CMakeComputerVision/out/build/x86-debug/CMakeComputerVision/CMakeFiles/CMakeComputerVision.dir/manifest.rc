@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Computer Vision - Labs/C++ Implementation playground/CMakeComputerVision/out/build/x86-debug/CMakeComputerVision/CMakeFiles/CMakeComputerVision.dir/embed.manifest"
